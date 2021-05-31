@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a junior undergraduate student at UNC Chapel Hill majoring in Computer Science
 - 👀 I’m interested in applying my knowledge and experience of computer science and software development in a professional setting
-- 💞️ I’m looking to collaborate on coding projects, especially in hackathons!
+- 💞️ I would love to work together on a coding project, especially in a hackathon!
 - 📫 Contact me via email: saads@unc.edu
 
 <!---
