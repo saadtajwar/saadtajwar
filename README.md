@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/saadtajwar/">LinkedIn</a>
 </p>
 
-- 🌱 I’m a student of UNC Chapel Hill where I am studying for my Bachelor's degree in Computer Science
+- 🌱 I’m a recent graduate of UNC Chapel Hill where I received my Bachelor's degree in Computer Science
 - 👀 I’m interested in applying my knowledge and experience of computer science and software development in a professional setting
 - 💞️ I would love to work together on a coding project, especially in a hackathon!
 - 📫 Contact me via email: saads@unc.edu
