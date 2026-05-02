@@ -15,7 +15,7 @@
 
 ---
 
-### 📚 Reading List
+### 📚 Completed Reading List
 
 - *Designing Data-Intensive Applications* — Martin Kleppmann  
 - *Database Internals* — Alex Petrov  
