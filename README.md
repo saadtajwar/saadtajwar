@@ -23,13 +23,8 @@
 - *Streaming Systems* — Tyler Akidau, Slava Chernyak, Reuven Lax  
 - *Operating Systems: Three Easy Pieces* — Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau  
 - *Crafting Interpreters* — Robert Nystrom  
-
----
-
-### 📖 Up Next
-
-- *Designing Distributed Systems* — Brendan Burns  
-
+- *Designing Distributed Systems* — Brendan Burns
+- *The Art of Multiprocessor Programming* — Herlihy et al.
 ---
 
 <!---
