@@ -10,8 +10,15 @@
 - 🧠 I'm deeply passionate about **distributed systems, databases, and algorithms**  
 - 🚀 I've solved **500+ problems on LeetCode** and enjoy sharpening my problem-solving skills  
 - 🤝 I'm looking forward to contributing to **distributed systems & database open-source projects**  
-- 💞️ Always open to collaborating on interesting engineering projects (especially systems-focused work!)  
+- 💞️ Always open to collaborating on interesting engineering projects (especially systems-focused work!)
+- 📖 Always looking for great tech reads! Got a CS book recommendation? Drop me an email or reach out on LinkedIn!
 - 📫 Reach me at: **saadtajwar19@gmail.com**
+
+---
+
+### 📖 Currently Reading List
+
+- *The Garbage Collection Handbook* — Richard Jones et al.
 
 ---
 
